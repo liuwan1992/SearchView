@@ -1,0 +1,2 @@
+# SearchView
+Android 利用AutoCompleteTextView实现模糊搜索功能，搜索结果自动提示，识别拼音首字母并转汉字提示
